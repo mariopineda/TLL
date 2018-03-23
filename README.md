@@ -1,8 +1,9 @@
 # The Logic Lab Assignment
-Mirror location for The Logic Lab serving as a backup. Mirror site located at:https://mariopineda.github.io/TLL-Assignment/
-All credits go to Kris Temmerman's original located at: http://www.neuroproductions.be/logic-lab/
+In this assignment you will be learning about logic gates by creating virtual circuits simulating logic gates.
 
-In this Assignment you will be learning about logic gates by creating virtual circuits.
+## The Logic Lab
+This is a mirror location for The Logic Lab serving: https://mariopineda.github.io/TLL-Assignment/
+All credits go to Kris Temmerman's original located at: http://www.neuroproductions.be/logic-lab/
 
 ## Research
 Read up on logic gates: https://en.wikipedia.org/wiki/Logic_gate
