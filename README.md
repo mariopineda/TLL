@@ -4,6 +4,10 @@ All credits go to Kris Temmerman's original located at: http://www.neuroproducti
 
 In this Assignment you will be learning about logic gates by creating virtual circuits.
 
+## Research
+Read up on logic gates: https://en.wikipedia.org/wiki/Logic_gate
+Watch the following video about logica gates: https://youtu.be/gI-qXk7XojA
+
 ## Step 1: Set Up
 On the Logic Lab site (link above), set up a car with 4 wheels, a brake pedal, a gas pedal and two turn signals (on the front of the 
 car).  The following is one possible starting layout.
